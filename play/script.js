@@ -162,7 +162,7 @@ function katanimasi3() {
 
     // Menghasilkan array string dengan emotikon acak, tanpa pengulangan
     const stringsArray = Array.from({ length: 10 }, (_, i) => {
-        return `I Love Youu ${i + 1}% ${shuffledEmojis[i]}`; // Mengambil emotikon dari array yang sudah diacak
+        return `I Love Youu My Frnduu🤭👀 ${i + 1}% ${shuffledEmojis[i]}`; // Mengambil emotikon dari array yang sudah diacak
     });
 
     new TypeIt("#teks4", {
